@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card1 {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.tex__1 {
+    -webkit-box-shadow: 1px 21px 30px 14px rgba(34, 60, 80, 0.11);
+    -moz-box-shadow: 1px 21px 30px 14px rgba(34, 60, 80, 0.11);
+    box-shadow: 1px 21px 30px 14px rgba(34, 60, 80, 0.11);
+    padding: 10px;
+}
+
+.tex__1 h1 {
+    margin: 10px 0;
+}
+
